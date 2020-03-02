@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embedding/word2vec:0"
+  metadata_path: "C:\\Users\\HoJun\\PycharmProjects\\Sentiment-Analysis\\Saver_300000TrainStep\\metadata.tsv"
+}

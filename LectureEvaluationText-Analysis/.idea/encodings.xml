@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Data/serial1.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Data/test.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Saver_100000TrainStep/metadata.tsv" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\HoJun\\PycharmProjects\\Sentiment-Analysis\\Saver_200000TrainStep\\images"
+all_model_checkpoint_paths: "C:\\Users\\HoJun\\PycharmProjects\\Sentiment-Analysis\\Saver_200000TrainStep\\images"

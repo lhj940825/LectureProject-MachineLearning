@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\HoJun\\PycharmProjects\\Binary-Sentiment_Analysis\\Sentiment-Analysis\\TextCNNLOG\\Saver\\images"
+all_model_checkpoint_paths: "C:\\Users\\HoJun\\PycharmProjects\\Binary-Sentiment_Analysis\\Sentiment-Analysis\\TextCNNLOG\\Saver\\images"
